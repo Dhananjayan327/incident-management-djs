@@ -1,0 +1,8 @@
+* Dhananjayan's test file for code abap programs
+
+data: lv_var1 type i.
+
+lv_var1 = 5.
+
+write:/ 'value: ', lv_var1. 
+
